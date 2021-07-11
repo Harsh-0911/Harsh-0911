@@ -9,8 +9,8 @@
 
 ---
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-0911&show_icons=true&count_private=true&theme=onedark)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-0911&show_icons=true&count_private=true&theme=dark)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-0911&langs_count=6&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-0911&langs_count=6&theme=dark)
