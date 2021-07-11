@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 ---
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-0911&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-0911&show_icons=true&count_private=true)](https://github.com/Harsh-0911/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-0911&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-0911&langs_count=8)](https://github.com/Harsh-0911/github-readme-stats)
